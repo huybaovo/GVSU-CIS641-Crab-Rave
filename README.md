@@ -1,12 +1,10 @@
-# Team Name
+# Crab Rave
 
-Project description (~1 paragraph)
+This project is the creation of a simple side scrolling 2D platformer using the GODOT engine. The GODOT engine is chosen here for the games development as this is a small game and a small team. There will be a focus on several features throughout the process of the game to be implemented to be a playable functional game with some additional features. Focus here will be to learning GODOT engine in conjuction with the creation of the platformer game as a complete simple game.
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Huy Vo
 
 ## Prerequisites
 

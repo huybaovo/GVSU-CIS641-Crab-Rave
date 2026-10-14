@@ -1,0 +1,13 @@
+title: "CIS 641 Term Project: 2D Platformer Game"
+description: "A beach theme 2D platformer using Godot engine"
+baseurl: "/GVSU-CIS641-Crab-Rave"
+
+kramdown:
+  input: GFM                    
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true        
+      wrap: true
+
+theme: jekyll-theme-hacker

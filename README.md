@@ -4,8 +4,12 @@ This project is the creation of a simple side scrolling 2D platformer using the 
 
 ## Team Members and Roles
 
-* Huy Vo
+* Huy Vo 
+
+## Artifact & Document Quick Links
 
 ## Prerequisites
+
+* Godot 4.7.2 or latest
 
 ## Run Instructions

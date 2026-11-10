@@ -2,7 +2,7 @@ Team name: Crab Rave
 
 Members present: Huy Vo
 
-Date: 11/2/2026
+Date: 11/3/2026
 
 Time: 4:00 PM
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7pcr0e23k0yo"
-path="res://.godot/imported/vegetation_tree_palm3.png-3c5586ad40341e6fed0073a5ab75778a.ctex"
+path="res://.godot/imported/vegetation_tree_palm3.png-4a84c2645e732f0624d3a0e5590e6b97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vegetation_tree_palm3.png"
-dest_files=["res://.godot/imported/vegetation_tree_palm3.png-3c5586ad40341e6fed0073a5ab75778a.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vegetation_tree_palm3.png"
+dest_files=["res://.godot/imported/vegetation_tree_palm3.png-4a84c2645e732f0624d3a0e5590e6b97.ctex"]
 
 [params]
 

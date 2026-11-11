@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uipopukfefk8"
-path="res://.godot/imported/collectibles_raspberry_small_8.png-7f7e3f58bfd4e9c715d7fca25f3da361.ctex"
+path="res://.godot/imported/collectibles_raspberry_small_8.png-0be9f50edae4059750548e7eb5884280.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_raspberry_small_8.png"
-dest_files=["res://.godot/imported/collectibles_raspberry_small_8.png-7f7e3f58bfd4e9c715d7fca25f3da361.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_raspberry_small_8.png"
+dest_files=["res://.godot/imported/collectibles_raspberry_small_8.png-0be9f50edae4059750548e7eb5884280.ctex"]
 
 [params]
 

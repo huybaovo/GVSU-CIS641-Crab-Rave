@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doapwvxa4n4nn"
-path="res://.godot/imported/vfx_effect_diamond_2.png-a3f0b922ad150afcbcf60dc3f82ce055.ctex"
+path="res://.godot/imported/vfx_effect_diamond_2.png-53fc41de803ae9acd6733b53fe490e3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vfx_effect_diamond_2.png"
-dest_files=["res://.godot/imported/vfx_effect_diamond_2.png-a3f0b922ad150afcbcf60dc3f82ce055.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vfx_effect_diamond_2.png"
+dest_files=["res://.godot/imported/vfx_effect_diamond_2.png-53fc41de803ae9acd6733b53fe490e3e.ctex"]
 
 [params]
 

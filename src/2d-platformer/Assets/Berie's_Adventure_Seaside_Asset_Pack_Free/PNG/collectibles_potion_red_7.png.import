@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clkyo76qomtvd"
-path="res://.godot/imported/collectibles_potion_red_7.png-2979c8bef6fb083a072970ff78b03cfb.ctex"
+path="res://.godot/imported/collectibles_potion_red_7.png-b9a72b57ef671b6ac0ef45c6d1f9b4b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_potion_red_7.png"
-dest_files=["res://.godot/imported/collectibles_potion_red_7.png-2979c8bef6fb083a072970ff78b03cfb.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_potion_red_7.png"
+dest_files=["res://.godot/imported/collectibles_potion_red_7.png-b9a72b57ef671b6ac0ef45c6d1f9b4b3.ctex"]
 
 [params]
 

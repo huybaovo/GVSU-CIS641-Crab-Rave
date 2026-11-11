@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iqe8ehnyq4vg"
-path="res://.godot/imported/character_berie_idle_poisoned_4.png-e0c947a553c1d1554cfeae226a22b9dd.ctex"
+path="res://.godot/imported/character_berie_idle_poisoned_4.png-c3f03bc8a4240c92ad79b1627e0e805d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_idle_poisoned_4.png"
-dest_files=["res://.godot/imported/character_berie_idle_poisoned_4.png-e0c947a553c1d1554cfeae226a22b9dd.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_idle_poisoned_4.png"
+dest_files=["res://.godot/imported/character_berie_idle_poisoned_4.png-c3f03bc8a4240c92ad79b1627e0e805d.ctex"]
 
 [params]
 

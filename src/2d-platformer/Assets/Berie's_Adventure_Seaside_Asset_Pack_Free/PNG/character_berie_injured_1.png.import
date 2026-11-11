@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e2tk2wru5oiw"
-path="res://.godot/imported/character_berie_injured_1.png-293235aa0893d319cca1e4b6636bc990.ctex"
+path="res://.godot/imported/character_berie_injured_1.png-893fdc43d091e56a14dbf07fb8b70abe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_injured_1.png"
-dest_files=["res://.godot/imported/character_berie_injured_1.png-293235aa0893d319cca1e4b6636bc990.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_injured_1.png"
+dest_files=["res://.godot/imported/character_berie_injured_1.png-893fdc43d091e56a14dbf07fb8b70abe.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l33ct7p25bkv"
-path="res://.godot/imported/tilemap.png-95068a2bfd2671d10e91419a5c92c9db.ctex"
+path="res://.godot/imported/tilemap.png-62e340de6e8046ef61bc9d4c721acb12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png"
-dest_files=["res://.godot/imported/tilemap.png-95068a2bfd2671d10e91419a5c92c9db.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png"
+dest_files=["res://.godot/imported/tilemap.png-62e340de6e8046ef61bc9d4c721acb12.ctex"]
 
 [params]
 

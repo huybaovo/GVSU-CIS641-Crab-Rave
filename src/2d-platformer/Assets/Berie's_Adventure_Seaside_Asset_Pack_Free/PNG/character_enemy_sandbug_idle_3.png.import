@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm2drpj23enyu"
-path="res://.godot/imported/character_enemy_sandbug_idle_3.png-5828bafdfd0974fae567d00882757597.ctex"
+path="res://.godot/imported/character_enemy_sandbug_idle_3.png-45af1e43da091c253269a6e02e3b8f27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_idle_3.png"
-dest_files=["res://.godot/imported/character_enemy_sandbug_idle_3.png-5828bafdfd0974fae567d00882757597.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_idle_3.png"
+dest_files=["res://.godot/imported/character_enemy_sandbug_idle_3.png-45af1e43da091c253269a6e02e3b8f27.ctex"]
 
 [params]
 

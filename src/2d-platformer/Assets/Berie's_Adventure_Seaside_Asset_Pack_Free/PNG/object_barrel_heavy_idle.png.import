@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5wutnsv4cp1"
-path="res://.godot/imported/object_barrel_heavy_idle.png-fe0a906b2d1145e8cd828fbbc25f9ee7.ctex"
+path="res://.godot/imported/object_barrel_heavy_idle.png-e6322d17866ffc1a2fb3a774b1293a1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/object_barrel_heavy_idle.png"
-dest_files=["res://.godot/imported/object_barrel_heavy_idle.png-fe0a906b2d1145e8cd828fbbc25f9ee7.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/object_barrel_heavy_idle.png"
+dest_files=["res://.godot/imported/object_barrel_heavy_idle.png-e6322d17866ffc1a2fb3a774b1293a1d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b64acoeiniweq"
-path="res://.godot/imported/character_berie_showoff_1.png-29773cb96fe063bc43bb831a18854ee2.ctex"
+path="res://.godot/imported/character_berie_showoff_1.png-11c084e3dd8dac4cf0f2b79cbc8e46fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_showoff_1.png"
-dest_files=["res://.godot/imported/character_berie_showoff_1.png-29773cb96fe063bc43bb831a18854ee2.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_showoff_1.png"
+dest_files=["res://.godot/imported/character_berie_showoff_1.png-11c084e3dd8dac4cf0f2b79cbc8e46fc.ctex"]
 
 [params]
 

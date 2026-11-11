@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4jf4rwg0hjj8"
-path="res://.godot/imported/character_enemy_sandbug_death_2.png-d80af6e6ab48e71f0f194a6146615c1a.ctex"
+path="res://.godot/imported/character_enemy_sandbug_death_2.png-f6b77fe49e39bcc8347f5d87a34bca2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_death_2.png"
-dest_files=["res://.godot/imported/character_enemy_sandbug_death_2.png-d80af6e6ab48e71f0f194a6146615c1a.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_death_2.png"
+dest_files=["res://.godot/imported/character_enemy_sandbug_death_2.png-f6b77fe49e39bcc8347f5d87a34bca2b.ctex"]
 
 [params]
 

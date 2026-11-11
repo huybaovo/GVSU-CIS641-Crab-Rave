@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gjsrxnultefy"
-path="res://.godot/imported/character_berie_death_2.png-0c237cad03b04bf3b47b603c028bbfee.ctex"
+path="res://.godot/imported/character_berie_death_2.png-09dca912464b53f23b2d2511c38b6822.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_death_2.png"
-dest_files=["res://.godot/imported/character_berie_death_2.png-0c237cad03b04bf3b47b603c028bbfee.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_berie_death_2.png"
+dest_files=["res://.godot/imported/character_berie_death_2.png-09dca912464b53f23b2d2511c38b6822.ctex"]
 
 [params]
 

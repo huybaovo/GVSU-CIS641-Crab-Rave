@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uno66td3lgi"
-path="res://.godot/imported/collectibles_treasure_ruby_static.png-5b4cd1763f4a29316037fa4f28d546ff.ctex"
+path="res://.godot/imported/collectibles_treasure_ruby_static.png-6cc1afa75139068bf3807dc130f7b29e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_treasure_ruby_static.png"
-dest_files=["res://.godot/imported/collectibles_treasure_ruby_static.png-5b4cd1763f4a29316037fa4f28d546ff.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_treasure_ruby_static.png"
+dest_files=["res://.godot/imported/collectibles_treasure_ruby_static.png-6cc1afa75139068bf3807dc130f7b29e.ctex"]
 
 [params]
 

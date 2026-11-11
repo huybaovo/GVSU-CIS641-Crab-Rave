@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbghnrymcsebm"
-path="res://.godot/imported/trap_bomb_impact_2.png-c0886651dced7e04f783fc6cb8081e7e.ctex"
+path="res://.godot/imported/trap_bomb_impact_2.png-03f9d43cbededbbf3bb840660ac6ecd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/trap_bomb_impact_2.png"
-dest_files=["res://.godot/imported/trap_bomb_impact_2.png-c0886651dced7e04f783fc6cb8081e7e.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/trap_bomb_impact_2.png"
+dest_files=["res://.godot/imported/trap_bomb_impact_2.png-03f9d43cbededbbf3bb840660ac6ecd2.ctex"]
 
 [params]
 

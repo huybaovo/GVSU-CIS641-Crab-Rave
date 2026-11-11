@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yspnnhce1k2s"
-path="res://.godot/imported/collectibles_coin_bronze2_4.png-32a5bdcadc8752b728fc446b2de29afb.ctex"
+path="res://.godot/imported/collectibles_coin_bronze2_4.png-b9f0afda9a5408c860195fdac0a4a538.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_coin_bronze2_4.png"
-dest_files=["res://.godot/imported/collectibles_coin_bronze2_4.png-32a5bdcadc8752b728fc446b2de29afb.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_coin_bronze2_4.png"
+dest_files=["res://.godot/imported/collectibles_coin_bronze2_4.png-b9f0afda9a5408c860195fdac0a4a538.ctex"]
 
 [params]
 

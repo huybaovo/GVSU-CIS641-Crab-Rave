@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qo0dj4qqbjmq"
-path="res://.godot/imported/background_sky.png-ccffc6f4bda1e41563220f2c763c23a5.ctex"
+path="res://.godot/imported/background_sky.png-63b764ab2572cdb8627fd1ed93c34367.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/background_sky.png"
-dest_files=["res://.godot/imported/background_sky.png-ccffc6f4bda1e41563220f2c763c23a5.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/background_sky.png"
+dest_files=["res://.godot/imported/background_sky.png-63b764ab2572cdb8627fd1ed93c34367.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbimceie0rtm"
-path="res://.godot/imported/background_ocean.png-5c69a258d7d0b9be9d9f8da7332ca6ee.ctex"
+path="res://.godot/imported/background_ocean.png-c7319b17b47d0b5dc7452aa0586c8fb2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/background_ocean.png"
-dest_files=["res://.godot/imported/background_ocean.png-5c69a258d7d0b9be9d9f8da7332ca6ee.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/background_ocean.png"
+dest_files=["res://.godot/imported/background_ocean.png-c7319b17b47d0b5dc7452aa0586c8fb2.ctex"]
 
 [params]
 

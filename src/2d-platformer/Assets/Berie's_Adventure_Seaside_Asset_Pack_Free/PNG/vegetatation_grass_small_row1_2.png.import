@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ww7p7fprahi3"
-path="res://.godot/imported/vegetatation_grass_small_row1_2.png-77c8dc066e5e43398d2ed6344a8209b3.ctex"
+path="res://.godot/imported/vegetatation_grass_small_row1_2.png-484c521169f042a8c068620c6eebb7a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vegetatation_grass_small_row1_2.png"
-dest_files=["res://.godot/imported/vegetatation_grass_small_row1_2.png-77c8dc066e5e43398d2ed6344a8209b3.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/vegetatation_grass_small_row1_2.png"
+dest_files=["res://.godot/imported/vegetatation_grass_small_row1_2.png-484c521169f042a8c068620c6eebb7a9.ctex"]
 
 [params]
 

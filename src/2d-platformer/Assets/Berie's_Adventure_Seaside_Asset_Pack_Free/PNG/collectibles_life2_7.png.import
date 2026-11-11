@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt5i5rxnv4shj"
-path="res://.godot/imported/collectibles_life2_7.png-aee46153fddf85455c047d6572993db4.ctex"
+path="res://.godot/imported/collectibles_life2_7.png-395d305c5b5c521e760ec91f90829969.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_life2_7.png"
-dest_files=["res://.godot/imported/collectibles_life2_7.png-aee46153fddf85455c047d6572993db4.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_life2_7.png"
+dest_files=["res://.godot/imported/collectibles_life2_7.png-395d305c5b5c521e760ec91f90829969.ctex"]
 
 [params]
 

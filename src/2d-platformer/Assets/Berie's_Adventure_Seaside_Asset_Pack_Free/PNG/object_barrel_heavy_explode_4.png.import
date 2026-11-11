@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://puey1bva7f0b"
-path="res://.godot/imported/object_barrel_heavy_explode_4.png-1aae4003f8d0376598683bce61152e72.ctex"
+path="res://.godot/imported/object_barrel_heavy_explode_4.png-e887258439119b594f74f67cc3a2d0d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/object_barrel_heavy_explode_4.png"
-dest_files=["res://.godot/imported/object_barrel_heavy_explode_4.png-1aae4003f8d0376598683bce61152e72.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/object_barrel_heavy_explode_4.png"
+dest_files=["res://.godot/imported/object_barrel_heavy_explode_4.png-e887258439119b594f74f67cc3a2d0d3.ctex"]
 
 [params]
 

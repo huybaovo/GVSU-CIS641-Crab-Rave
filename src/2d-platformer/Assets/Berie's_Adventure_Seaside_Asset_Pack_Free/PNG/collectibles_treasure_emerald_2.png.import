@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmkrsun7mlgj5"
-path="res://.godot/imported/collectibles_treasure_emerald_2.png-bd0682f39a4492800057349334ab9258.ctex"
+path="res://.godot/imported/collectibles_treasure_emerald_2.png-514d2a96fe7f14b52be88dc877330e93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_treasure_emerald_2.png"
-dest_files=["res://.godot/imported/collectibles_treasure_emerald_2.png-bd0682f39a4492800057349334ab9258.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/collectibles_treasure_emerald_2.png"
+dest_files=["res://.godot/imported/collectibles_treasure_emerald_2.png-514d2a96fe7f14b52be88dc877330e93.ctex"]
 
 [params]
 

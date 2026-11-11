@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tdr2rcqubhso"
-path="res://.godot/imported/character_enemy_sandbug_walk_3.png-4c799dbf64b7af703a04aed4a8099f09.ctex"
+path="res://.godot/imported/character_enemy_sandbug_walk_3.png-3992dea7f35cfc2d2817f720ff2f9872.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_walk_3.png"
-dest_files=["res://.godot/imported/character_enemy_sandbug_walk_3.png-4c799dbf64b7af703a04aed4a8099f09.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_walk_3.png"
+dest_files=["res://.godot/imported/character_enemy_sandbug_walk_3.png-3992dea7f35cfc2d2817f720ff2f9872.ctex"]
 
 [params]
 

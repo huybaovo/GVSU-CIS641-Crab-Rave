@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b03lkp0f6qfhp"
-path="res://.godot/imported/collectibles_coin_royal.png-384bd308a222763db75bb2f2d29c73f9.ctex"
+path="res://.godot/imported/collectibles_coin_royal.png-d45df9bf601d1e37231ba7288eb1a36f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_royal.png"
-dest_files=["res://.godot/imported/collectibles_coin_royal.png-384bd308a222763db75bb2f2d29c73f9.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_royal.png"
+dest_files=["res://.godot/imported/collectibles_coin_royal.png-d45df9bf601d1e37231ba7288eb1a36f.ctex"]
 
 [params]
 

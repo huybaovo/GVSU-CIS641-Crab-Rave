@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyyex33y834k7"
-path="res://.godot/imported/character_enemy_sandbug_spawn_5.png-81c37e017ee1ab6cd501ef87bf696c64.ctex"
+path="res://.godot/imported/character_enemy_sandbug_spawn_5.png-f3fe110f14c795fb8b0a15811f877c9d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_spawn_5.png"
-dest_files=["res://.godot/imported/character_enemy_sandbug_spawn_5.png-81c37e017ee1ab6cd501ef87bf696c64.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/character_enemy_sandbug_spawn_5.png"
+dest_files=["res://.godot/imported/character_enemy_sandbug_spawn_5.png-f3fe110f14c795fb8b0a15811f877c9d.ctex"]
 
 [params]
 

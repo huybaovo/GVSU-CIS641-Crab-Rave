@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bowl8o428iyn8"
-path="res://.godot/imported/tilemap_new_softy_sand.png-5536556c2ac99da77f69696ba4993d02.ctex"
+path="res://.godot/imported/tilemap_new_softy_sand.png-23b02c9220200d9c2101d31ad8f62f64.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/tilemap_new_softy_sand.png"
-dest_files=["res://.godot/imported/tilemap_new_softy_sand.png-5536556c2ac99da77f69696ba4993d02.ctex"]
+source_file="res://assets/Berie's_Adventure_Seaside_Asset_Pack_Free/PNG/tilemap_new_softy_sand.png"
+dest_files=["res://.godot/imported/tilemap_new_softy_sand.png-23b02c9220200d9c2101d31ad8f62f64.ctex"]
 
 [params]
 
